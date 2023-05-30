@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/reactcars/static/css/main.f0e1f93b.css",
-    "main.js": "/reactcars/static/js/main.0fd870ad.js",
-    "static/media/features.png": "/reactcars/static/media/features.aa89a2fba53796a52174.png",
-    "static/media/about.png": "/reactcars/static/media/about.76e1ed7477de633481bb.png",
-    "static/media/offer-bg.png": "/reactcars/static/media/offer-bg.5dd9e7f570b3090b42c5.png",
-    "static/media/home.png": "/reactcars/static/media/home.6839bcfd758d34c7c2a7.png",
-    "static/media/offer.png": "/reactcars/static/media/offer.54851bb3207d8ac26d1a.png",
-    "static/media/map.png": "/reactcars/static/media/map.38427e089583af8cfa09.png",
-    "static/media/popular1.png": "/reactcars/static/media/popular1.20012cc81c8611f445dc.png",
-    "static/media/popular4.png": "/reactcars/static/media/popular4.7a454476f784284af6f1.png",
-    "static/media/popular3.png": "/reactcars/static/media/popular3.ea39bd5b9f38ab4a1dff.png",
-    "static/media/popular5.png": "/reactcars/static/media/popular5.739b82cc2223b3a4cf3c.png",
-    "static/media/featured5.png": "/reactcars/static/media/featured5.23914159adee3a5180b4.png",
-    "static/media/featured3.png": "/reactcars/static/media/featured3.90f5c3e3261e6f987d6c.png",
-    "static/media/featured1.png": "/reactcars/static/media/featured1.6dbf6f538452f9e68932.png",
-    "static/media/popular2.png": "/reactcars/static/media/popular2.4049af7c69eb68b6ad95.png",
-    "static/media/featured4.png": "/reactcars/static/media/featured4.78ee63ab859664799c65.png",
-    "static/media/featured2.png": "/reactcars/static/media/featured2.c1da548a934f61dd18e2.png",
-    "static/media/logo4.png": "/reactcars/static/media/logo4.714804ae204075c1c707.png",
-    "index.html": "/reactcars/index.html",
-    "main.f0e1f93b.css.map": "/reactcars/static/css/main.f0e1f93b.css.map",
-    "main.0fd870ad.js.map": "/reactcars/static/js/main.0fd870ad.js.map"
+    "main.css": "/carsreact/static/css/main.f0e1f93b.css",
+    "main.js": "/carsreact/static/js/main.5b11930e.js",
+    "static/media/features.png": "/carsreact/static/media/features.aa89a2fba53796a52174.png",
+    "static/media/about.png": "/carsreact/static/media/about.76e1ed7477de633481bb.png",
+    "static/media/offer-bg.png": "/carsreact/static/media/offer-bg.5dd9e7f570b3090b42c5.png",
+    "static/media/home.png": "/carsreact/static/media/home.6839bcfd758d34c7c2a7.png",
+    "static/media/offer.png": "/carsreact/static/media/offer.54851bb3207d8ac26d1a.png",
+    "static/media/map.png": "/carsreact/static/media/map.38427e089583af8cfa09.png",
+    "static/media/popular1.png": "/carsreact/static/media/popular1.20012cc81c8611f445dc.png",
+    "static/media/popular4.png": "/carsreact/static/media/popular4.7a454476f784284af6f1.png",
+    "static/media/popular3.png": "/carsreact/static/media/popular3.ea39bd5b9f38ab4a1dff.png",
+    "static/media/popular5.png": "/carsreact/static/media/popular5.739b82cc2223b3a4cf3c.png",
+    "static/media/featured5.png": "/carsreact/static/media/featured5.23914159adee3a5180b4.png",
+    "static/media/featured3.png": "/carsreact/static/media/featured3.90f5c3e3261e6f987d6c.png",
+    "static/media/featured1.png": "/carsreact/static/media/featured1.6dbf6f538452f9e68932.png",
+    "static/media/popular2.png": "/carsreact/static/media/popular2.4049af7c69eb68b6ad95.png",
+    "static/media/featured4.png": "/carsreact/static/media/featured4.78ee63ab859664799c65.png",
+    "static/media/featured2.png": "/carsreact/static/media/featured2.c1da548a934f61dd18e2.png",
+    "static/media/logo4.png": "/carsreact/static/media/logo4.714804ae204075c1c707.png",
+    "index.html": "/carsreact/index.html",
+    "main.f0e1f93b.css.map": "/carsreact/static/css/main.f0e1f93b.css.map",
+    "main.5b11930e.js.map": "/carsreact/static/js/main.5b11930e.js.map"
   },
   "entrypoints": [
     "static/css/main.f0e1f93b.css",
-    "static/js/main.0fd870ad.js"
+    "static/js/main.5b11930e.js"
   ]
 }
