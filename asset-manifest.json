@@ -1,7 +1,21 @@
 {
   "files": {
-    "main.css": "/carsreact/static/css/main.8fe148e0.css",
-    "main.js": "/carsreact/static/js/main.aac2b1d1.js",
+    "main.css": "/carsreact/static/css/main.7cd8d6ee.css",
+    "main.js": "/carsreact/static/js/main.ed3509ae.js",
+    "static/css/116.6ae59a50.chunk.css": "/carsreact/static/css/116.6ae59a50.chunk.css",
+    "static/js/116.71769fbb.chunk.js": "/carsreact/static/js/116.71769fbb.chunk.js",
+    "static/css/247.6ae59a50.chunk.css": "/carsreact/static/css/247.6ae59a50.chunk.css",
+    "static/js/247.97801086.chunk.js": "/carsreact/static/js/247.97801086.chunk.js",
+    "static/css/299.486993e9.chunk.css": "/carsreact/static/css/299.486993e9.chunk.css",
+    "static/js/299.5fc270df.chunk.js": "/carsreact/static/js/299.5fc270df.chunk.js",
+    "static/css/606.6ae59a50.chunk.css": "/carsreact/static/css/606.6ae59a50.chunk.css",
+    "static/js/606.257800e2.chunk.js": "/carsreact/static/js/606.257800e2.chunk.js",
+    "static/css/377.6ae59a50.chunk.css": "/carsreact/static/css/377.6ae59a50.chunk.css",
+    "static/js/377.0148cd9a.chunk.js": "/carsreact/static/js/377.0148cd9a.chunk.js",
+    "static/js/307.eb1f618e.chunk.js": "/carsreact/static/js/307.eb1f618e.chunk.js",
+    "static/js/36.3475d610.chunk.js": "/carsreact/static/js/36.3475d610.chunk.js",
+    "static/js/718.e9a9fdcf.chunk.js": "/carsreact/static/js/718.e9a9fdcf.chunk.js",
+    "static/js/371.2fc3a7c8.chunk.js": "/carsreact/static/js/371.2fc3a7c8.chunk.js",
     "static/media/features.png": "/carsreact/static/media/features.aa89a2fba53796a52174.png",
     "static/media/about.png": "/carsreact/static/media/about.76e1ed7477de633481bb.png",
     "static/media/offer-bg.png": "/carsreact/static/media/offer-bg.5dd9e7f570b3090b42c5.png",
@@ -20,11 +34,25 @@
     "static/media/featured2.png": "/carsreact/static/media/featured2.c1da548a934f61dd18e2.png",
     "static/media/logo4.png": "/carsreact/static/media/logo4.714804ae204075c1c707.png",
     "index.html": "/carsreact/index.html",
-    "main.8fe148e0.css.map": "/carsreact/static/css/main.8fe148e0.css.map",
-    "main.aac2b1d1.js.map": "/carsreact/static/js/main.aac2b1d1.js.map"
+    "main.7cd8d6ee.css.map": "/carsreact/static/css/main.7cd8d6ee.css.map",
+    "main.ed3509ae.js.map": "/carsreact/static/js/main.ed3509ae.js.map",
+    "116.6ae59a50.chunk.css.map": "/carsreact/static/css/116.6ae59a50.chunk.css.map",
+    "116.71769fbb.chunk.js.map": "/carsreact/static/js/116.71769fbb.chunk.js.map",
+    "247.6ae59a50.chunk.css.map": "/carsreact/static/css/247.6ae59a50.chunk.css.map",
+    "247.97801086.chunk.js.map": "/carsreact/static/js/247.97801086.chunk.js.map",
+    "299.486993e9.chunk.css.map": "/carsreact/static/css/299.486993e9.chunk.css.map",
+    "299.5fc270df.chunk.js.map": "/carsreact/static/js/299.5fc270df.chunk.js.map",
+    "606.6ae59a50.chunk.css.map": "/carsreact/static/css/606.6ae59a50.chunk.css.map",
+    "606.257800e2.chunk.js.map": "/carsreact/static/js/606.257800e2.chunk.js.map",
+    "377.6ae59a50.chunk.css.map": "/carsreact/static/css/377.6ae59a50.chunk.css.map",
+    "377.0148cd9a.chunk.js.map": "/carsreact/static/js/377.0148cd9a.chunk.js.map",
+    "307.eb1f618e.chunk.js.map": "/carsreact/static/js/307.eb1f618e.chunk.js.map",
+    "36.3475d610.chunk.js.map": "/carsreact/static/js/36.3475d610.chunk.js.map",
+    "718.e9a9fdcf.chunk.js.map": "/carsreact/static/js/718.e9a9fdcf.chunk.js.map",
+    "371.2fc3a7c8.chunk.js.map": "/carsreact/static/js/371.2fc3a7c8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8fe148e0.css",
-    "static/js/main.aac2b1d1.js"
+    "static/css/main.7cd8d6ee.css",
+    "static/js/main.ed3509ae.js"
   ]
 }
